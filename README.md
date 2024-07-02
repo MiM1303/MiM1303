@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Mahbub049/Mahbub049/blob/main/banner.png)
+![Github Banner](https://github.com/MiM1303/MiM1303/blob/main/banner.png)
 
 ## Who am I?
 
