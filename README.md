@@ -17,7 +17,7 @@ const profile = {
  
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=MiM1303&&show_icons=true&count_private=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=MiM1303&&show_icons=true&count_private=true&theme=tokyonight">
 
 ## Programming Languages
 
@@ -39,7 +39,6 @@ const profile = {
    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"></a>
    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=Tailwind%20CSS&logoColor=white"></a>
    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"></a>
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF1B2D?logo=Laravel&logoColor=white"></a>
 </p>
 
