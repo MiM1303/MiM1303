@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/MiM1303/MiM1303/blob/main/banner.jpeg)
 
-## Who am I?
+## About Me?
 
  ```javascript
 const profile = {
@@ -9,7 +9,7 @@ const profile = {
   location: 'Mirpur-14, Dhaka-1216',
   code: ['JavaScript', 'TypeScript', 'HTML', 'TailwindCSS', 'CSS'],
   tools: ['React', 'Express', 'MongoDB', 'Node'],
-  challenge: 'Developing myself to become a world-class programmer by creative thinking and problem-solving capabilities'
+  challenge: 'Aspiring MERN developer on a journey to build dynamic web applications.'
 };
 	
  ```
@@ -17,7 +17,7 @@ const profile = {
  
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mahbub049&&show_icons=true&count_private=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=MiM1303&&show_icons=true&count_private=true&theme=github_dark">
 
 ## Programming Languages
 
@@ -56,18 +56,17 @@ const profile = {
 <p>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
 	<a href="#"><img alt="Notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
 	<a href="#"><img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoWidth=40"></a>
 </p>
 
-## Operating Systems
+<!-- ## Operating Systems
 <p>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
 	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
 	<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android%20-%2311AB00.svg?logo=android&logoColor=white"></a>
-</p>
+</p> -->
 
 
 ## Design
